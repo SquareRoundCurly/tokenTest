@@ -1,0 +1,6 @@
+[submodule "Vendor/cpp-jwt"]
+	path = Vendor/cpp-jwt
+	url = https://github.com/arun11299/cpp-jwt
+[submodule "Vendor/nlohmann-json"]
+	path = Vendor/nlohmann-json
+	url = https://github.com/nlohmann/json
